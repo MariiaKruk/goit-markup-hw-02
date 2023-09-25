@@ -12,12 +12,8 @@ body {
   list-style: none;
 }
 
-.title {
-}
 .header {
   background-color: #E7E9FC;
-}
-.header-nav {
 }
 
 .header-link-studio:active, .header-link:hover, .header-link:focus {
@@ -48,12 +44,6 @@ line-height: 1.16;
 letter-spacing: 0.03em;
 }
 
-.header-menu {
-
-}
-.header-menu-item {
-}
-
 .header-link {
   color: #2E2F42;
 font-size: 16px;
@@ -68,13 +58,6 @@ font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
-}
-
-.header-address {
-}
-.header-address-list {
-}
-.header-address-item {
 }
 
 .header-address-link {
@@ -112,12 +95,6 @@ word-wrap: break-word;
 .page-two {
   background-color: #FFFFFF;
 }
-.visually-hidden {
-}
-.page-two-list {
-}
-.page-two-item {
-}
 
 .page-two-subtitle {
   color: #2E2F42;
@@ -145,10 +122,6 @@ font-size: 36px;
 font-weight: 700;
 line-height: 1.11;
 letter-spacing: 0.02;
-}
-
-.portfolio-list { 
-
 }
 
 .portfolio-name {
