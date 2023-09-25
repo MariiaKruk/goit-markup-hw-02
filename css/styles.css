@@ -1,0 +1,79 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: ;
+  background-color: ;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+.title {
+font-family: "Raleway", sans-serif;
+}
+.header {
+
+}
+.header-nav {
+
+}
+.header-logo {
+
+}
+.header-menu {
+
+}
+.header-menu-item {
+}
+.header-link {
+}
+.header-address {
+}
+.header-address-list {
+}
+.header-address-item {
+}
+.header-address-link {
+}
+.page-one {
+}
+.page-one-title {
+}
+.page-one-btn {
+}
+.page-two {
+}
+.visually-hidden {
+}
+.page-two-list {
+}
+.page-two-item {
+}
+.page-two-subtitle {
+}
+.page-two-text {
+}
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-name {
+}
+.portfolio-text {
+}
+.footer-end {
+}
+.footer-logo {
+}
+.footer-text {
+}
