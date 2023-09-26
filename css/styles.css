@@ -12,6 +12,8 @@ body {
   list-style: none;
 }
 
+/**==================HEADER====================*/
+
 .header {
   font-family: "Raleway", sans-serif;
   background-color: #E7E9FC;
@@ -38,7 +40,7 @@ color: #404bbf;
   text-transform: uppercase;
 }
 
-.header-logo span {
+.logo-color {
   color: #2E2F42;
 font-size: 18px;
 font-weight: 700;
@@ -63,6 +65,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
+/**===================CONTENT==================*/
 .page-one {
   background-color: #2E2F42;
 }
@@ -147,40 +150,56 @@ letter-spacing: 0.02em;
 }
 
 .portfolio-works {
+  background-color: #FFFFFF;
 }
+
 .works-title {
+  color: #2E2F42;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.02em;
 }
-.works-list {
-}
-.list {
-}
-.works-item {
-}
+
 .works-subtitle {
+  color: #2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
 }
+
 .works-text {
+  color: #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
+
+/**==================FOOTER=================*/
 
 .footer-end {
   background-color:#2E2F42;
 }
 
 .footer-logo {
-  color: #4D5AE5;
+  color: hsl(235, 75%, 60%);
 font-size: 18px;
-font-family: Raleway;
+font-family: "Raleway", sans-serif;
 font-weight: 700;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
 }
 
-.footer-logo span {
+.color-logo {
   color: #F4F4FD;
 font-size: 18px;
-font-family: Raleway;
+font-family: "Raleway", sans-serif;
 font-weight: 700;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
+text-transform: uppercase;
 }
 
 .footer-text {
@@ -189,4 +208,5 @@ font-size: 16px;
 font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
+text-transform: uppercase;
 }
